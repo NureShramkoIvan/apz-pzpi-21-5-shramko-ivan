@@ -1,0 +1,13 @@
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\bin\Debug\net8.0\DroneTrainer.Training.Core.deps.json
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\bin\Debug\net8.0\DroneTrainer.Training.Core.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\bin\Debug\net8.0\DroneTrainer.Training.Core.pdb
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.csproj.AssemblyReference.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.sourcelink.json
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\refint\DroneTrainer.Training.Core.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\DroneTrainer.Training.Core.pdb
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.Core\obj\Debug\net8.0\ref\DroneTrainer.Training.Core.dll

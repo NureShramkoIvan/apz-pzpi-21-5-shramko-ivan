@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DroneTrainer.Training.Service.props" />
+</Project>

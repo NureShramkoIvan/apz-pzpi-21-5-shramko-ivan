@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RCsH4PZBlnE9qbfUl725OFekoJcThQ+qgP+VlakBr2g=",
+  "Source": "DroneTrainer.Training.Service",
+  "BasePath": "_content/DroneTrainer.Training.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

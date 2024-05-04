@@ -1,0 +1,6 @@
+namespace {namespace};
+
+public sealed class {itemname} : IRequest<>
+{
+    $
+}

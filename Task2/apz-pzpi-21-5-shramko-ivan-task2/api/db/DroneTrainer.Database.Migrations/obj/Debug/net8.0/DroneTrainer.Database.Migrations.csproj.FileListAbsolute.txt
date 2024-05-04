@@ -1,0 +1,12 @@
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\bin\Debug\net8.0\DroneTrainer.Database.Migrations.deps.json
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\bin\Debug\net8.0\DroneTrainer.Database.Migrations.dll
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\bin\Debug\net8.0\DroneTrainer.Database.Migrations.pdb
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.sourcelink.json
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.dll
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\refint\DroneTrainer.Database.Migrations.dll
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\DroneTrainer.Database.Migrations.pdb
+C:\personal\projects\drone-trainer\api\db\DroneTrainer.Database.Migrations\obj\Debug\net8.0\ref\DroneTrainer.Database.Migrations.dll

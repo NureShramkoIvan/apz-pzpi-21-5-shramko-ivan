@@ -1,0 +1,16 @@
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Services.deps.json
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Services.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Services.pdb
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Types.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Types.pdb
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.csproj.AssemblyReference.cache
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.sourcelink.json
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.csproj.CopyComplete
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\refint\DroneTrainer.Shared.Dates.Services.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Services.pdb
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates\obj\Debug\net8.0\ref\DroneTrainer.Shared.Dates.Services.dll

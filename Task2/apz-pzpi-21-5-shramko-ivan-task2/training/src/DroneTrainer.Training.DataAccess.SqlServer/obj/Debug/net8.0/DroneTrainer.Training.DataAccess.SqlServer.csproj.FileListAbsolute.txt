@@ -1,0 +1,16 @@
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.deps.json
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.pdb
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Core.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Core.pdb
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.csproj.AssemblyReference.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.sourcelink.json
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.csproj.CopyComplete
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\refint\DroneTrainer.Training.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.DataAccess.SqlServer.pdb
+C:\personal\projects\drone-trainer\training\src\DroneTrainer.Training.DataAccess.SqlServer\obj\Debug\net8.0\ref\DroneTrainer.Training.DataAccess.SqlServer.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M7NbSdvSnbD8OeKf9tpfeCzuEahLUehhX6G1rwbkeDQ=",
+  "Source": "DroneTrainer.Api",
+  "BasePath": "_content/DroneTrainer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

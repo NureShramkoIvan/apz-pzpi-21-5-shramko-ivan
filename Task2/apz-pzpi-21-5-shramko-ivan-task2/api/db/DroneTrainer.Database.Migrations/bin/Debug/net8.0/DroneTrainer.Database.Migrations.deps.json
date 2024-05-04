@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DroneTrainer.Database.Migrations/1.0.0": {
+        "runtime": {
+          "DroneTrainer.Database.Migrations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DroneTrainer.Database.Migrations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

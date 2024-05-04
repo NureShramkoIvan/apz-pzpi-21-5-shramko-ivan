@@ -1,0 +1,12 @@
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Types.deps.json
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Types.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\bin\Debug\net8.0\DroneTrainer.Shared.Dates.Types.pdb
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.sourcelink.json
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\refint\DroneTrainer.Shared.Dates.Types.dll
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\DroneTrainer.Shared.Dates.Types.pdb
+C:\personal\projects\drone-trainer\api\shared\DroneTrainer.Shared.Dates.Types\obj\Debug\net8.0\ref\DroneTrainer.Shared.Dates.Types.dll

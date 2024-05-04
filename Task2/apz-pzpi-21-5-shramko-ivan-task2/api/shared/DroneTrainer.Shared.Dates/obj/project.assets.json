@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DroneTrainer.Shared.Dates.Types/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DroneTrainer.Shared.Dates.Types.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DroneTrainer.Shared.Dates.Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DroneTrainer.Shared.Dates.Types/1.0.0": {
+      "type": "project",
+      "path": "../DroneTrainer.Shared.Dates.Types/DroneTrainer.Shared.Dates.Types.csproj",
+      "msbuildProject": "../DroneTrainer.Shared.Dates.Types/DroneTrainer.Shared.Dates.Types.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DroneTrainer.Shared.Dates.Types >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\personal\\projects\\drone-trainer\\api\\shared\\DroneTrainer.Shared.Dates\\DroneTrainer.Shared.Dates.Services.csproj",
+      "projectName": "DroneTrainer.Shared.Dates.Services",
+      "projectPath": "C:\\personal\\projects\\drone-trainer\\api\\shared\\DroneTrainer.Shared.Dates\\DroneTrainer.Shared.Dates.Services.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\personal\\projects\\drone-trainer\\api\\shared\\DroneTrainer.Shared.Dates\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Apps\\FastReport.Net\\Nugets": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\personal\\projects\\drone-trainer\\api\\shared\\DroneTrainer.Shared.Dates.Types\\DroneTrainer.Shared.Dates.Types.csproj": {
+              "projectPath": "C:\\personal\\projects\\drone-trainer\\api\\shared\\DroneTrainer.Shared.Dates.Types\\DroneTrainer.Shared.Dates.Types.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

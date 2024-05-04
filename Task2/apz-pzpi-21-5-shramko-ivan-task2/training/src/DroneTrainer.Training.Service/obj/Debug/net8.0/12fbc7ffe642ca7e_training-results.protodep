@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/Training-resultsGrpc.cs \
+obj\Debug\net8.0\Protos/TrainingResults.cs: C:/Users/user/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/duration.proto\
+ Protos/training-results.proto
