@@ -1,0 +1,16 @@
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.deps.json
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.pdb
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Telemetry.Core.dll
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\bin\Debug\net8.0\DroneTrainer.Training.Telemetry.Core.pdb
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.csproj.AssemblyReference.cache
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.AssemblyInfoInputs.cache
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.AssemblyInfo.cs
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.csproj.CoreCompileInputs.cache
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.sourcelink.json
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.csproj.CopyComplete
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\refint\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.dll
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.pdb
+C:\personal\projects\drone-trainer\training\src\telemetry-processor\DroneTrainer.Training.Telemetry.DataAccess.SqlServer\obj\Debug\net8.0\ref\DroneTrainer.Training.Telemetry.DataAccess.SqlServer.dll
